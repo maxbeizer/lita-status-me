@@ -12,8 +12,12 @@ gem "lita-status-me"
 
 ## Configuration
 
-TODO: Describe any configuration attributes the plugin exposes.
+None.
 
 ## Usage
 
 TODO: Describe the plugin's features and how to use them.
+
+## License
+
+MIT
